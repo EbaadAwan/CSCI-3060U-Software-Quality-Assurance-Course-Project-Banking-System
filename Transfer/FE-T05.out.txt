@@ -1,0 +1,2 @@
+Transfer accepted.
+Transaction file written.
