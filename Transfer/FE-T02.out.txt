@@ -1,0 +1,2 @@
+ERROR: Source account not owned.
+Transaction file written.

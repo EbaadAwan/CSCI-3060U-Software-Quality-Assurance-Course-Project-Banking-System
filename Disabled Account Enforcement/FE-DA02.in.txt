@@ -1,0 +1,8 @@
+login
+standard
+Mike Brown
+transfer
+10003
+10001
+50
+logout

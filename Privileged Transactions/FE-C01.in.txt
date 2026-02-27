@@ -1,0 +1,6 @@
+login
+admin
+create
+Alice New
+500
+logout

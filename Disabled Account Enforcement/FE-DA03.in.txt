@@ -1,0 +1,8 @@
+login
+standard
+Mike Brown
+paybill
+10003
+EC
+50
+logout

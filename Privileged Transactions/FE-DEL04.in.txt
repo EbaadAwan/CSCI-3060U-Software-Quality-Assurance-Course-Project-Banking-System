@@ -1,0 +1,10 @@
+login
+admin
+delete
+John Doe
+10001
+withdrawal
+John Doe
+10001
+100
+logout

@@ -1,0 +1,3 @@
+Login successful.
+Transaction file written.
+ERROR: Login required.

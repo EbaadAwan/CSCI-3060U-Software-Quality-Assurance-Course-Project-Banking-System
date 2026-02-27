@@ -1,0 +1,3 @@
+Deposit accepted.
+ERROR: Insufficient funds.
+Transaction file written.

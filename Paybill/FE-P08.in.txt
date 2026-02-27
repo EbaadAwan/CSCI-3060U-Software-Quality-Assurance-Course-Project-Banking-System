@@ -1,0 +1,8 @@
+login
+admin
+paybill
+John Doe
+10001
+EC
+300
+logout

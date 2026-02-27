@@ -1,0 +1,7 @@
+login
+standard
+John Doe
+withdrawal
+ABC12
+100
+logout

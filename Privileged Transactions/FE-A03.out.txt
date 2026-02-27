@@ -1,0 +1,2 @@
+ERROR: Privileged transaction not permitted.
+Transaction file written.

@@ -1,0 +1,3 @@
+Login successful.
+ERROR: Already logged in.
+Transaction file written.

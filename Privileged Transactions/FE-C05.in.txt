@@ -1,0 +1,10 @@
+login
+admin
+create
+Alice New
+500
+withdrawal
+Alice New
+10004
+100
+logout

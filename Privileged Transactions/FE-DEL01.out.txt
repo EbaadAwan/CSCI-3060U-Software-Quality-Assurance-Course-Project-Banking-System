@@ -1,0 +1,2 @@
+Account deletion recorded.
+Transaction file written.

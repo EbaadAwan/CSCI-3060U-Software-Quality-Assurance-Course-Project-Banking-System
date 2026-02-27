@@ -1,0 +1,2 @@
+ERROR: Malformed input.
+Transaction file written.

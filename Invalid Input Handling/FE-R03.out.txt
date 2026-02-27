@@ -1,0 +1,2 @@
+ERROR: Negative amounts not allowed.
+Transaction file written.

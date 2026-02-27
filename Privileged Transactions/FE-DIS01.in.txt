@@ -1,0 +1,6 @@
+login
+admin
+disable
+Mike Brown
+10003
+logout
