@@ -1,0 +1,2 @@
+ERROR: Withdrawal exceeds session limit.
+Transaction file written.
