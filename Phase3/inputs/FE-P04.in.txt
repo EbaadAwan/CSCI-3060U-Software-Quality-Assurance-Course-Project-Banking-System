@@ -1,0 +1,8 @@
+login
+standard
+John Doe
+paybill
+10001
+Netflix
+100
+logout

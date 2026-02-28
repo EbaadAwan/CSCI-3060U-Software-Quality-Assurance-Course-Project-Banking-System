@@ -1,0 +1,2 @@
+Login successful (standard).
+Transaction file written.

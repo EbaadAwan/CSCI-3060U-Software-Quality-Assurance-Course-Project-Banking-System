@@ -1,0 +1,2 @@
+ERROR: Destination account does not exist.
+Transaction file written.

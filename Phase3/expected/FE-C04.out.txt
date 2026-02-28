@@ -1,0 +1,2 @@
+ERROR: Initial balance exceeds maximum.
+Transaction file written.

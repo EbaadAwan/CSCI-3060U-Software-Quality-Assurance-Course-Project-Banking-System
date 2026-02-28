@@ -1,0 +1,3 @@
+Login successful (admin).
+ERROR: Initial balance exceeds maximum.
+Transaction file written.

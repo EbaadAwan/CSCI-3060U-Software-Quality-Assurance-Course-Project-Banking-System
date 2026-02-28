@@ -1,0 +1,8 @@
+login
+standard
+John Doe
+transfer
+10002
+10001
+100
+logout

@@ -1,0 +1,3 @@
+Login successful (admin).
+Account plan changed.
+Transaction file written.

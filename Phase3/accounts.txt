@@ -1,0 +1,5 @@
+10001 John Doe             A 02000.00
+10002 Jane Smith           A 00500.00
+10003 Mike Brown           D 00100.00
+67890 Admin Account        A 99999.99
+00000                      A 00000.00

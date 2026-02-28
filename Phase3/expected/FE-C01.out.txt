@@ -1,0 +1,2 @@
+Account creation recorded.
+Transaction file written.

@@ -1,0 +1,2 @@
+Deposit accepted.
+Transaction file written.

@@ -1,0 +1,3 @@
+Login successful (admin).
+ERROR: Account holder name mismatch.
+Transaction file written.

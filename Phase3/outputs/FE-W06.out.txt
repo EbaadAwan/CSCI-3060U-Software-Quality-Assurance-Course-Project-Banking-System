@@ -1,0 +1,2 @@
+Withdrawal accepted.
+Transaction file written.

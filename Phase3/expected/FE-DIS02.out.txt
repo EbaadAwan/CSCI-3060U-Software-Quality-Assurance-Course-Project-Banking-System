@@ -1,0 +1,3 @@
+Account disabled.
+ERROR: Account is disabled.
+Transaction file written.

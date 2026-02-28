@@ -1,0 +1,7 @@
+login
+standard
+John Doe
+create
+Alice New
+500
+logout

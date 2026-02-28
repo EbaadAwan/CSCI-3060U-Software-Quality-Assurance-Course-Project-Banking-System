@@ -1,0 +1,2 @@
+ERROR: Unknown transaction code.
+Transaction file written.

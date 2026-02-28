@@ -1,0 +1,4 @@
+Login successful (admin).
+Account deletion recorded.
+ERROR: Account no longer exists.
+Transaction file written.

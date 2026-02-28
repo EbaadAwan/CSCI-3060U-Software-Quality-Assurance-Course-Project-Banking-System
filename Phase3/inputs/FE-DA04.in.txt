@@ -1,0 +1,7 @@
+login
+standard
+Mike Brown
+deposit
+10003
+50
+logout

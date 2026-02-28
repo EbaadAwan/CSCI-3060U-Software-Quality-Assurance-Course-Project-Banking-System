@@ -1,0 +1,3 @@
+Login successful (admin).
+ERROR: Account number mismatch.
+Transaction file written.

@@ -1,0 +1,2 @@
+Account disabled.
+Transaction file written.

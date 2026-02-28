@@ -1,0 +1,2 @@
+ERROR: Paybill exceeds session limit.
+Transaction file written.

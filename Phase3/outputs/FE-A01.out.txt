@@ -1,0 +1,3 @@
+Login successful (standard).
+ERROR: Privileged transaction not permitted.
+Transaction file written.

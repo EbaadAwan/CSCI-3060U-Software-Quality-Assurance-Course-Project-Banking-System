@@ -1,0 +1,2 @@
+ERROR: Invalid account or holder.
+Transaction file written.

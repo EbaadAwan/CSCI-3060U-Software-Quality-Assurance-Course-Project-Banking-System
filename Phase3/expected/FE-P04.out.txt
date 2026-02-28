@@ -1,0 +1,2 @@
+ERROR: Invalid bill company.
+Transaction file written.

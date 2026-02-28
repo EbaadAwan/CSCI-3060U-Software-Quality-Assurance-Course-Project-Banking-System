@@ -1,0 +1,4 @@
+Login successful (admin).
+Account creation recorded.
+ERROR: Account unavailable this session.
+Transaction file written.

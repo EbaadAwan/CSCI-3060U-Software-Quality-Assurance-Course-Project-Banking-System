@@ -1,0 +1,2 @@
+ERROR: Insufficient funds.
+Transaction file written.
